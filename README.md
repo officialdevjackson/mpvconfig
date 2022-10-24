@@ -1,2 +1,2 @@
 # mpvconfig
-https://mpvguide.wordpress.com/
+Guide: https://mpvguide.wordpress.com/
