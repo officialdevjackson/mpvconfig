@@ -1,2 +1,2 @@
 # mpvconfig
-Guide: https://mpvguide.wordpress.com/
+Guide: https://shiestyhub.com/mpv-guide/
